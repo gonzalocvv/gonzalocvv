@@ -31,8 +31,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-<p align="center">
-  <img height="165" alt="Gonzalo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gonzalocvv&show_icons=true&hide_border=true&theme=tokyonight&count_private=true">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzalocvv&layout=compact&hide_border=true&theme=tokyonight">
-</p>
